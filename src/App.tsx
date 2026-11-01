@@ -118,9 +118,6 @@ function Home() {
             01 <span>/</span> 04
           </div>
         </div>
-        <div className="hero-side-note">
-          ARQUITETURA · INTERIORES · CONSULTORIA
-        </div>
       </section>
       <section className="intro section-wrap">
         <Eyebrow number="01 / 04">NOSSA PRÁTICA</Eyebrow>
